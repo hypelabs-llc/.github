@@ -6,7 +6,7 @@ We build and operate systems designed for businesses that require scalable, reli
 
 Our main product is **HypeLabs Connect**.
 
-## HypeLabs Connect
+### HypeLabs Connect
 
 **HypeLabs Connect** is a B2B platform for managing and reselling proxy infrastructure.
 
@@ -23,7 +23,7 @@ It provides a complete operational layer for proxy providers and resellers, incl
 
 Connect is designed to make it easier to operate a proxy business without having to build the entire management and provisioning stack internally.
 
-## Links
+### Links
 
 - [Official Website](https://hypelabs.llc)
 - [HypeLabs Connect](https://console.hypelabs.network)
